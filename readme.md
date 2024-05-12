@@ -32,7 +32,7 @@ Build a React website in 24 hours to showcase the following:
 ## Homepage visuals
 
 
-![Imgur](https://i.imgur.com/zzTxoS2.png?1)
+![Imgur](C:\Users\Dipanshi\OneDrive\Pictures\Screenshots\first.png)
 ![Imgur](https://i.imgur.com/voIJ0AG.png?1)
 ![Imgur](https://i.imgur.com/xjHH6Hr.png?1)
 ![Imgur](https://i.imgur.com/3JJlqb9.png?1)
